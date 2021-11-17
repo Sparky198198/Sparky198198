@@ -1,4 +1,4 @@
-Just here for hacks lol
+Currrently Learning Pen Testing and C#!
 
 Social Platforms:
 Twitter:
