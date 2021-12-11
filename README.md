@@ -1,4 +1,4 @@
-Currrently Learning Pen Testing and C#!
+Making Game
 
 Social Platforms:
 Twitter:
